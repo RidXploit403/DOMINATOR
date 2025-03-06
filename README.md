@@ -1,4 +1,4 @@
-# Dominator V.1 - NAM DoS Tool
+# Dominator V.1 -  DoS Tool
 
 Dominator is a simple DoS (Denial of Service) tool written in Python. It allows users to perform HTTP GET and POST requests to a specified target site, simulating a flood of requests to test the site's resilience.
 
