@@ -1,4 +1,3 @@
-https://j.top4top.io/p_33528f3ba4.jpg
 
 # Dominator V.1 -  DoS Tool
 
