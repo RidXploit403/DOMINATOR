@@ -23,7 +23,7 @@ To run the tool, use the following command:
 
 ```bash
 pkg install python
-
+pkg install git
 pip install requests
-
+git clone https://github.com/RidXploit403/DOMINATOR.git
 python dominator.py
