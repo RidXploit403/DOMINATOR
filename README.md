@@ -23,5 +23,7 @@ To run the tool, use the following command:
 
 ```bash
 pkg install python
+
 pip install requests
+
 python dominator.py
