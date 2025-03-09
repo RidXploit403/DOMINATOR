@@ -25,4 +25,5 @@ pkg install python
 pkg install git
 pip install requests
 git clone https://github.com/RidXploit403/DOMINATOR.git
-python dominator.py
+cd DOMINATOR
+python DDoSV1.py
